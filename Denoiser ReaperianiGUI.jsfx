@@ -1,6 +1,6 @@
 //TEST DENOISER REAPERIANI
 
-
+@metapackage
 @version: 1.0.1
 @description:Denoiser Reaperiani [Reaperiani & Tevio]
 @author: Tevio
