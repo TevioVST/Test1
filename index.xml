@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="FooBar Scripts" commit="4b8ff56ab2f2ddf122867787731294b9ed926669">
+  <category name="denoiser">
+    <reapack name="kawa_XY_Flanger.jsfx" type="effect" desc="kawa_XY_Flanger">
+      <version name="2017/01/09" author="kawa_" time="2018-06-21T13:28:01Z">
+        <source>https://github.com/TevioVST/Test1/raw/4b8ff56ab2f2ddf122867787731294b9ed926669/denoiser/kawa_XY_Flanger.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+</index>

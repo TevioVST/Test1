@@ -1,14 +1,15 @@
 //TEST DENOISER REAPERIANI
 
-
-//* Version: 2017/01/09 
-description:Denoiser Reaperiani [Reaperiani & Tevio]
-author: Tevio
-about:
-	#TevioJSFX
-	Tevio Audio Plugins JSFX Package.
-	changelog:
-		- First Version
+//====================================================================== 
+// 
+//* Version: 2018/06/21 
+//* Author: Tevio
+//* Author URI: http://forum.cockos.com/member.php?u=105939 
+//* Repository: BitBucket - kawaCat - ReaScript-M2B 
+//* Repository URI: https://bitbucket.org/kawaCat/reascript-m2bpack/ 
+// 
+//====================================================================== 
+desc:Tevio_denoiser
 
 filename:0,denoiserreapGUI.png
 filename:1,knob.png
