@@ -4,10 +4,7 @@
     <reapack name="denoiser_reaperianigui.jsfx" type="effect" desc="tevio_denoiser">
       <version name="2018/06/21" author="Tevio" time="2018-06-21T13:47:05Z">
         <source>https://github.com/TevioVST/Test1/raw/b2f8dc572eb557f41a505335f564b9ef38806e21/denoiser/denoiser_reaperianigui.jsfx</source>
-		<source file="dentevback.png">https://github.com/TevioVST/Test1/raw/b2f8dc572eb557f41a505335f564b9ef38806e21/denoiser/dentevback.png</source>
       </version>
     </reapack>
   </category>
 </index>
-
-
