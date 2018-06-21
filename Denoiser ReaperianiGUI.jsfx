@@ -1,7 +1,14 @@
 //TEST DENOISER REAPERIANI
 
-desc:Denoiser Reaperiani
+
+version: 1.0.1
 desc:Denoiser Reaperiani [Reaperiani & Tevio]
+author: Tevio
+about:
+	#TevioJSFX
+	Tevio Audio Plugins JSFX Package.
+	changelog:
+		- First Version
 
 filename:0,denoiserreapGUI.png
 filename:1,knob.png
