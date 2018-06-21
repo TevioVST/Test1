@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="TevioJSFX" commit="4b8ff56ab2f2ddf122867787731294b9ed926669">
+<index version="1" name="TevioJSFX" commit="3b0157714c49367f4e191a4619114e175c92f766">
   <category name="denoiser">
     <reapack name="kawa_XY_Flanger.jsfx" type="effect" desc="kawa_XY_Flanger">
       <version name="2017/01/09" author="kawa_" time="2018-06-21T13:28:01Z">
         <source>https://github.com/TevioVST/Test1/raw/4b8ff56ab2f2ddf122867787731294b9ed926669/denoiser/kawa_XY_Flanger.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="test.jsfx" type="effect" desc="kawa_XY_Flanger1">
+      <version name="2017/01/09" author="kawa_" time="2018-06-21T13:38:40Z">
+        <source>https://github.com/TevioVST/Test1/raw/3b0157714c49367f4e191a4619114e175c92f766/denoiser/test.jsfx</source>
       </version>
     </reapack>
   </category>
