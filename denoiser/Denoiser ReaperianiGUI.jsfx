@@ -1,10 +1,10 @@
 //TEST DENOISER REAPERIANI
 
 
-@version 1.0
-@description:Denoiser Reaperiani [Reaperiani & Tevio]
-@author: Tevio
-@about:
+version 1.0
+description:Denoiser Reaperiani [Reaperiani & Tevio]
+author: Tevio
+about:
 	#TevioJSFX
 	Tevio Audio Plugins JSFX Package.
 	changelog:
