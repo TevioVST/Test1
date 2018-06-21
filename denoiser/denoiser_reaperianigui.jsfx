@@ -9,9 +9,9 @@
 //* Repository URI: https://bitbucket.org/kawaCat/reascript-m2bpack/ 
 // 
 //====================================================================== 
-desc:Tevio_denoiser
+desc:tevio_denoiser
 
-filename:0,denoiserreapGUI.png
+filename:0,denoiserreapgui.png
 filename:1,knob.png
 filename:2,knobred.png
 
