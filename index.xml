@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="TevioJSFX" commit="a758207a1f3c59af6916a39b2a1ef63eeb9d5c11">
+<index version="1" name="TevioJSFX" commit="d429c1559ed814f3c2464a96d049f6c8aa3433b1">
   <category name="denoiser">
-    <reapack name="kawa_XY_Flanger.jsfx" type="effect" desc="kawa_XY_Flanger">
-      <version name="2017/01/09" author="kawa_" time="2018-06-21T13:28:01Z">
-        <source>https://github.com/TevioVST/Test1/raw/4b8ff56ab2f2ddf122867787731294b9ed926669/denoiser/kawa_XY_Flanger.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="test.jsfx" type="effect" desc="kawa_XY_Flanger1">
-      <version name="2017/01/09" author="kawa_" time="2018-06-21T13:38:40Z">
-        <source>https://github.com/TevioVST/Test1/raw/3b0157714c49367f4e191a4619114e175c92f766/denoiser/test.jsfx</source>
-      </version>
-      <version name="2017/01/11" author="kawa_" time="2018-06-21T13:45:28Z">
-        <source>https://github.com/TevioVST/Test1/raw/a758207a1f3c59af6916a39b2a1ef63eeb9d5c11/denoiser/test.jsfx</source>
+    <reapack name="denoiser_reaperianigui.jsfx" type="effect" desc="tevio_denoiser">
+      <version name="2018/06/21" author="Tevio" time="2018-06-21T13:47:05Z">
+        <source>https://github.com/TevioVST/Test1/raw/b2f8dc572eb557f41a505335f564b9ef38806e21/denoiser/denoiser_reaperianigui.jsfx</source>
       </version>
     </reapack>
   </category>
